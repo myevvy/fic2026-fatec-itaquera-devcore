@@ -1,0 +1,171 @@
+
+
+#nome-projeto {
+     display: flex;
+     justify-items: center;
+     text-color: #D9A441;
+     margin: 0 0 20px;
+     text-transform: uppercase;
+}
+
+
+#botao-doar {
+     display: block;
+     width: 100%;
+     max-width: 320px;
+     padding: 15px 24px;
+     border-radius: 999px;
+     transition: opacity 0.15s ease, background 0.15s ease, color 0.15s ease;
+
+}
+
+.h5-info {
+     text-color: #D9A441;
+      margin: 0 0 4px;
+}
+
+.textinho-info {
+     text-color: black;
+      margin: 0;
+     font-size: 13px;
+
+}
+
+#principios {
+    text-color: black;
+     background-color: white;
+}
+#principios img {
+     display: block;
+      width: 100%;
+     aspect-ratio: 4 / 3;
+     object-fit: cover;
+     border-radius: 20px;
+     margin: 0 0 28px;
+}
+
+#infos-ong1 {
+     background-color: white;
+     border-radius: 10px;
+       margin-bottom: 24px;
+}
+
+#infos-ong2 {
+     background-color: white;
+     border-radius: 10px;
+       margin-bottom: 24px;
+}
+
+#infos-ong3 {
+     background-color: white;
+     border-radius: 10px;
+       margin-bottom: 24px;
+}
+
+.cartoezinhos {
+     display: block;
+     padding: 0 20px 48px;
+     max-width: 560px;
+     width: 40px;
+     height: 40px;
+     margin: 0 auto 16px;
+}
+
+#cartao1 {
+      margin-top: 8px;
+      background-color: white;
+      border-radius: 10px;
+}
+
+#cartao2 {
+      margin-top: 8px;
+      background-color: white;
+      border-radius: 10px;
+ }
+
+#cartao3 {
+      margin-top: 8px;
+      background-color: white;
+      border-radius: 10px;
+}
+
+.fotos {
+     radius: 10px;
+}
+
+.dicas-doacao {
+     background-color: white;
+     border-radius: 10px;
+}
+
+#botao-quero-ajudar {
+     text-color: white;
+     background-color: rgb(201, 126, 57);
+}
+
+#titulos-eventos {
+    text-color: #D9A441;
+}
+
+.datas {
+    text-color: #D9A441;
+}
+
+.quero-participar {
+    text-color: white;
+    background-color: black;
+    border-radius: 7px;
+}
+
+#botao-participar {
+    text-color: white;
+    background-color: black;
+    border-radius: 7px;
+}
+
+#area-voluntaio {
+    background-color :#5F7D43;
+    text-color: white;
+}
+#voluntarios {
+     background-color: #E7EDDA
+}
+
+.botao-entrar {
+    text-color: white;
+    radius: 10px;
+    background-color: rgb(50, 46, 9);
+}
+
+#botao-voluntarios {
+    text-color: white;
+    background-color: rgb(15, 89, 44);
+}
+
+#painel-equipe {
+    text-color: white;
+    background-color: #3F5F8A;
+}
+#adm {
+    background-color:#DFE6EE
+}
+
+.perguntinhas {
+    text-color: white;
+    background-color: #211811;
+
+}
+
+#contato {
+    background-color: rgb(57, 37, 27);
+}
+
+.nome-redes {
+    text-color: #D9A441;
+    color: white;
+} 
+
+.id-redes {
+    text-color: white;
+    color: white;
+}
